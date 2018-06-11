@@ -112,7 +112,7 @@ Examples
     logger.error('error message')
     logger.critical('critical message')
 
-    # Prints the following to `stdout.log` (all messages at level `INFO` or below):
+    # Prints the following to `stdout` (all messages at level `INFO` or below):
 
     debug message
     info message
